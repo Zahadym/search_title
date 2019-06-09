@@ -60,7 +60,7 @@ body {
 
     width: 100%;
     height: 80vh;
-    background: url("assets/img/fon5.jpg") center no-repeat;
+    background: url("../img/fon5.jpg") center no-repeat;
     background-size: cover;
 
 }
